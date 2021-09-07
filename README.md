@@ -11,11 +11,11 @@ Throughout the project, the purpose was to compare the influence of several vari
 ## Analysis and Results
 
 ### Analysis of Outcomes Based on Launch Date
-![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/88692025/132140495-81dfc3e4-06ea-4f0c-a147-84b747f08ea9.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/88692025/132284072-6e1d4317-8e49-42e5-bd65-df917b86d536.png)
 * An analysis was created to help Louise our client understand the link between the outcome of a Kickstarter campaign and the time of year or date that it was launched. This is an important correlation to conclude from as the weather and seasons play a role in poeple's deicision making and propensity to spend money. The data gave a clear indication that the most successfull campaings occurred in May and June. The Spring/Summer seasons contains more succesffull ccmpaaings than the Falll/Winter seasons. This can help Louise drive decision making with the information that the summer season will likely yield a more successfull result than the other seasons. A second conclusion is that the time of year has little to no effect on whether or not a campaign will fail, as the data on failed campaings is spread out quite evenly throughout the year. It can also be conlcuded that there are many more cmapaings during the Spring and Summer season and as a result might be a driver to the higher number of successes. 
 
 ### Analysis of Outcomes Based on Goals
-![Parent Category Outcomes](https://user-images.githubusercontent.com/88692025/132140663-9a886da1-8eaf-44ba-a79a-2cc4a01657f0.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/88692025/132284084-7d435408-02fa-423b-b163-a1bf2aff712d.png)
 * An analysis was created to determine thew correlation between a campaing's goal amount and the percentage of it's success, failure and cancelatrion. Between 0 and 34999 here is a clear conclusiona nd trend. The higher the goal set for a Kickstater campaign the higher the pertcenrtage of failure comapred to success. Initially, on the lower end of the goal range the success percentage is quite high near 80%, and this beings to decrease to aroung 55% as the goal increases from less tahn 1000 dollars to betweeen 15000 - 19999. We can conclude that it is more likely to be successfull and smaller goal ranges with regards to plays specifically. 
 
 ## Challenges and Recomendations 
